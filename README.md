@@ -1,2 +1,3 @@
-# tkinterplaceholder
-Themed TK Widgets with placeholder text
+# TkInterPlaceHolder
+A small set of themed tk widgets that implemnt placeholder text
+

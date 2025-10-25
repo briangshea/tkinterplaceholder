@@ -1,0 +1,30 @@
+[project]
+name = "tkinterplaceholder"
+version = "0.1.0"
+description = "A small set of tkinter widgets that implement place holder text"
+authors = [
+    { name = "Brian G. Shea", email = "bgshea@gmail.com" }
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Developers"
+]
+dependencies = [
+    "tk >= 0.1.0",
+    "ttkboostrap >= 1.16.0"
+]
+readme = "README.md"
+requires-python = ">= 3.9"
+license = "GPL-3.0"
+license-files = ["LICEN[CS]E"]
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project.urls]
+Homepage = "https://github.com/briangshea/tkinterplaceholder"
+Source = "https://github.com/briangshea/tkinterplaceholder"
+Issues = "https://github.com/briangshea/tkinterplaceholder/issues"
+Documentation = "https://github.com/briangshea/tkinterplaceholder"
